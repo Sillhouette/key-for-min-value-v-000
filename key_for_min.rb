@@ -13,5 +13,6 @@ def key_for_min_value(name_hash)
       lowest_key = key;
     end
   end
+  lowest_value = 0
     return lowest_key;
 end
